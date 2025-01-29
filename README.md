@@ -44,4 +44,4 @@ Os dados utilizados no treinamento incluem as seguintes colunas:
 
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/meduardasoares/Projeto-1lab-IA
