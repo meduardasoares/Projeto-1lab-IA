@@ -45,3 +45,17 @@ Os dados utilizados no treinamento incluem as seguintes colunas:
 1. Clone este repositório:  
    ```bash
     git clone https://github.com/meduardasoares/Projeto-1lab-IA
+2.	Acesse o diretório do projeto:
+
+cd Projeto-1lab-IA
+
+
+	3.	Instale as dependências necessárias:
+
+pip install -r requirements.txt
+
+
+	4.	Execute o script principal:
+
+python main.py
+
