@@ -34,7 +34,7 @@ Os dados utilizados no treinamento incluem as seguintes colunas:
 
 ### **3. Implantação e Testes**  
    - O modelo foi implantado como um **endpoint na nuvem**.  
-   - Foram realizados testes para validar a precisão das previsões.  
+   - Foram realizados testes para validar a precisão das previsões. 
 
 ## **Resultados**  
 - O modelo alcançou uma **acurácia de XX%** (substitua pelo seu resultado).  
@@ -44,4 +44,4 @@ Os dados utilizados no treinamento incluem as seguintes colunas:
 
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/meduardasoares/Projeto-1lab-IA
+    git clone https://github.com/meduardasoares/Projeto-1lab-IA
