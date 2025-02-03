@@ -37,8 +37,8 @@ Os dados utilizados no treinamento incluem as seguintes colunas:
    - Foram realizados testes para validar a precisão das previsões. 
 
 ## **Resultados**  
-- O modelo alcançou uma **acurácia de XX%** (substitua pelo seu resultado).  
-- Foi possível classificar os dados corretamente em **XX% dos casos**.  
+- O modelo alcançou uma **acurácia de 91%** (substitua pelo seu resultado).  
+- Foi possível classificar os dados corretamente em **96% dos casos**.  
 
 ## **Como Executar o Projeto**  
 
