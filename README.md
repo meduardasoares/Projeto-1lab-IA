@@ -1,5 +1,5 @@
-# Projeto-1lab-IA
-# **Projeto-1lab-IA**
+# Trabalhando com machine learning na prática
+
 
 Classificação automatizada de dados com Azure AutoML.  
 Este projeto utiliza o **Azure Machine Learning (AutoML)** para treinar um modelo de **classificação**, categorizando informações com base em diferentes atributos relevantes ao contexto analisado.  
